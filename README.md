@@ -37,7 +37,7 @@ As an enthusiast of companion furry, I leveraged my passion to a project focused
 [View web app](https://psrisukhawasu-catsdogsclassifier.streamlit.app/)
 
 <h3>Chest X-ray lung pneumonia classification</h3>
-Lung pneumonia is a common illness affecting adults, resulting in harm to millions annually. In this project, I examined the efficacy of vision transformer models, comparing them with traditional Convolutional Neural Networks (CNNs) for classifying chest X-ray images.
+Lung pneumonia is a common illness affecting adults, resulting in harm to millions annually. In this project, I examined the efficacy of vision transformer models, comparing them with traditional convolutional neural networks for classifying chest X-ray images.
 
 <br><img src="https://github.com/phanuphatsrisukhawasu/phanuphatsrisukhawasu/blob/main/image/chest_xray_roc.png?raw=true" alt="Receiver Operating Characteristic (ROC) Curve">
 
@@ -61,7 +61,7 @@ Implemented TabPFN (transformer for tabular data) to predict the nature band gap
 Applied decision trees and ensemble learning to classify Chandra X-ray sources in galactic globular clusters, achieving the best average AUC score of over 0.95.
 
 <h3>MultiFlareNet: Light-weight convolutional neural networks for solar flare forecasting using multispectral flaring region images</h3>
-Utilized transfer learning techniques with convolutional neural networks (AlexNet & EfficientNetB0) for models trained on small datasets to achieve comparable performances to previous studies with larger datasets and investigated the performance of models trained on flaring region images (AIA 94 Å & 131 Å) achieving competitive performance to the traditional magnetogram images.
+Utilized transfer learning techniques with convolutional neural networks (AlexNet & EfficientNetB0) for models trained on small datasets to achieve comparable performances to previous studies with larger datasets and investigated the performance of models trained on flaring region images (AIA 94 Å & 131 Å) achieving competitive performance to the traditional magnetograms
 
 <h2>🌐 Connect with me:</h2>
 
