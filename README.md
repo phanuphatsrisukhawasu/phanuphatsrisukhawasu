@@ -6,7 +6,7 @@
 <br>🔎 Data manipulation and analysis with Excel / SQL / R / Python (NumPy and Pandas)
 <br>📊 Data visualization with Matplotlib / Seaborn / Tableau
 
-<h2>👨‍💻 Selected personal projects in data science, machine learning, and deep Learning</h2>
+<h2>👨‍💻 Selected personal projects in data science, machine learning, and deep learning</h2>
 
 <h3>Double perovskite band gap prediction</h3>
 Transitioning from fossil fuel dependency to renewable energy is pivotal. Solar energy, sourced from the sun via photovoltaic cells, emerges as a crucial solution. These cells, typically semiconductor-based with a narrow band gap, play a vital role in solar power harnessing. Double perovskites have garnered attention as potential substitutes for photovoltaic materials.
