@@ -39,26 +39,10 @@ Transitioning from fossil fuel dependency to renewable energy is pivotal. Solar 
 
 [View code on colab](https://drive.google.com/file/d/1Ev64CCgq-ei3yzQ6JGnacF5upXPceHpX/view?usp=sharing)
 
-<h3>Cat and dog classification web app</h3>
-As an enthusiast of companion furry, I leveraged my passion to a project focused on classifying images featuring cats and dogs. Employing a Convolutional Neural Network (CNN) model with transfer learning, I developed and optimized algorithms to accurately categorize these images and deploy them onto a web application hosted by Streamlit.
-<br> </br>
+<h3>Other mini-projects</h3>
 
-[![Python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=3776AB&logoColor=white&label=%20)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&labelColor=5c5c5c&color=FF6F00&logoColor=white&label=%20)](https://www.tensorflow.org/)
-[![Streamlit](https://img.shields.io/static/v1?message=Streamlit&logo=streamlit&labelColor=5c5c5c&color=FF4B4B&logoColor=white&label=%20)](https://www.streamlit.io/)
-
-[View web app](https://psrisukhawasu-catsdogsclassifier.streamlit.app/)
-
-<h3>Chest X-ray lung pneumonia classification</h3>
-Lung pneumonia is a common illness affecting adults, resulting in harm to millions annually. In this project, I examined the efficacy of vision transformer models, comparing them with traditional convolutional neural networks for classifying chest X-ray images.
-
-<br><img src="https://github.com/phanuphatsrisukhawasu/phanuphatsrisukhawasu/blob/main/image/chest_xray_roc.png?raw=true" alt="Receiver Operating Characteristic (ROC) Curve">
-
-[![Python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=3776AB&logoColor=white&label=%20)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/static/v1?message=Jupyter&logo=jupyter&labelColor=5c5c5c&color=F37626&logoColor=white&label=%20)](https://jupyter.org/)
-[![PyTorch](https://img.shields.io/static/v1?message=PyTorch&logo=pytorch&labelColor=5c5c5c&color=EE4C2C&logoColor=white&label=%20)](https://pytorch.org/)
-
-[View code on colab](https://drive.google.com/file/d/1-sSynBwibYYiZiIWwATkbnXEm2Z5S7Vd/view?usp=sharing)
+* Create a [web app](https://psrisukhawasu-catsdogsclassifier.streamlit.app) on Streamlit for classifying cats and dogs images using smartphone photos
+* Examined the efficacy of vision transformer models in classifying chest X-ray images to diagnose lung pneumonia ([view code on colab](https://drive.google.com/file/d/1-sSynBwibYYiZiIWwATkbnXEm2Z5S7Vd/view?usp=sharing))
 
 <h2>⚛️ Projects done as a research student during high school</h2>
 
