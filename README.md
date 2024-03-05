@@ -6,7 +6,18 @@
 <br>🔎 Data manipulation and analysis with Excel / SQL / R / Python (NumPy and Pandas)
 <br>📊 Data visualization with Matplotlib / Seaborn / Tableau
 
-<h2>👨‍💻 Selected personal projects in data science, machine learning, and deep learning</h2>
+<h2>👨‍💻 Selected personal projects </h2>
+
+<h3> <a href="https://github.com/phanuphatsrisukhawasu/star-galaxy-image-classification">Star-galaxy classification using ensembled CNNs</a> </h3>
+Stellar sources presented in raw images from astronomical instruments and telescopes could be too complex to be classified by humans. However, identifying types of sources is crucial for exploring new objects with compelling properties or unique characteristics, which sometimes may lead to novel discoveries in astrophysics
+
+<br> In this project, I tried using multiple lightweight convolutional neural networks to classify the images, utilizing the class weighting techniques to address the imbalanced dataset problem. Additionally, I investigated the performance of ensemble prediction from CNN, revealing an improved performance.
+
+<br><img src="banner-example-prediction.jpeg", alt="Example Prediction of Ensembled CNNs">
+
+[![Python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=3776AB&logoColor=white&label=%20)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/static/v1?message=Jupyter&logo=jupyter&labelColor=5c5c5c&color=F37626&logoColor=white&label=%20)](https://jupyter.org/)
+[![TensorFlow](https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&labelColor=5c5c5c&color=FF6F00&logoColor=white&label=%20)](https://www.tensorflow.org/)
 
 <h3>Double perovskite band gap prediction</h3>
 Transitioning from fossil fuel dependency to renewable energy is pivotal. Solar energy, sourced from the sun via photovoltaic cells, emerges as a crucial solution. These cells, typically semiconductor-based with a narrow band gap, play a vital role in solar power harnessing. Double perovskites have garnered attention as potential substitutes for photovoltaic materials.
