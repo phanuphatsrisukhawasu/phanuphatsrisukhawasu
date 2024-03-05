@@ -19,6 +19,8 @@ Stellar sources presented in raw images from astronomical instruments and telesc
 [![Jupyter](https://img.shields.io/static/v1?message=Jupyter&logo=jupyter&labelColor=5c5c5c&color=F37626&logoColor=white&label=%20)](https://jupyter.org/)
 [![TensorFlow](https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&labelColor=5c5c5c&color=FF6F00&logoColor=white&label=%20)](https://www.tensorflow.org/)
 
+[View code here](https://github.com/phanuphatsrisukhawasu/star-galaxy-image-classification/blob/main/star-galaxy-classification.ipynb)
+
 <h3>Double perovskite band gap prediction</h3>
 Transitioning from fossil fuel dependency to renewable energy is pivotal. Solar energy, sourced from the sun via photovoltaic cells, emerges as a crucial solution. These cells, typically semiconductor-based with a narrow band gap, play a vital role in solar power harnessing. Double perovskites have garnered attention as potential substitutes for photovoltaic materials.
 
