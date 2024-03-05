@@ -9,7 +9,7 @@
 <h2>👨‍💻 Selected personal projects </h2>
 
 <h3> <a href="https://github.com/phanuphatsrisukhawasu/star-galaxy-image-classification">Star-galaxy classification using ensembled CNNs</a> </h3>
-Stellar sources presented in raw images from astronomical instruments and telescopes could be too complex to be classified by humans. However, identifying types of sources is crucial for exploring new objects with compelling properties or unique characteristics, which sometimes may lead to novel discoveries in astrophysics
+Stellar sources presented in raw images from astronomical instruments and telescopes could be too complex to be classified by humans. However, identifying types of sources is crucial for exploring new objects with compelling properties or unique characteristics, which sometimes may lead to novel discoveries in astrophysics.
 
 <br> In this project, I tried using multiple lightweight convolutional neural networks to classify the images, utilizing the class weighting techniques to address the imbalanced dataset problem. Additionally, I investigated the performance of ensemble prediction from CNN, revealing an improved performance.
 
