@@ -13,7 +13,7 @@ Stellar sources presented in raw images from astronomical instruments and telesc
 
 <br> In this project, I tried using multiple lightweight convolutional neural networks to classify the images, utilizing the class weighting techniques to address the imbalanced dataset problem. Additionally, I investigated the performance of ensemble prediction from CNN, revealing an improved performance.
 
-<br><img src="banner-example-prediction.jpeg", alt="Example Prediction of Ensembled CNNs">
+<br><img src="https://github.com/phanuphatsrisukhawasu/star-galaxy-image-classification/blob/main/banner-example-prediction.jpeg", alt="Example Prediction of Ensembled CNNs">
 
 [![Python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=3776AB&logoColor=white&label=%20)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/static/v1?message=Jupyter&logo=jupyter&labelColor=5c5c5c&color=F37626&logoColor=white&label=%20)](https://jupyter.org/)
