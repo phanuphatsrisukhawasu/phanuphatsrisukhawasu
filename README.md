@@ -41,8 +41,9 @@ Transitioning from fossil fuel dependency to renewable energy is pivotal. Solar 
 
 <h3>Other mini-projects</h3>
 
-* Create a [web app](https://psrisukhawasu-catsdogsclassifier.streamlit.app) on Streamlit for classifying cats and dogs images using smartphone photos
+* Created a [web app](https://psrisukhawasu-catsdogsclassifier.streamlit.app) on Streamlit for classifying cats and dogs images using smartphone photos
 * Examined the efficacy of vision transformer models in classifying chest X-ray images to diagnose lung pneumonia ([view code on colab](https://drive.google.com/file/d/1-sSynBwibYYiZiIWwATkbnXEm2Z5S7Vd/view?usp=sharing))
+* Developed machine learning models for preliminary risk assessment of lung cancer based on the patience's lifestyle choices and health indicators ([view code here](https://github.com/phanuphatsrisukhawasu/lung-cancer-preliminary-risk-assessment))
 
 <h2>⚛️ Projects done as a research student during high school</h2>
 
