@@ -1,10 +1,15 @@
 <h1>Hi, I'm Oad! <a href="https://www.linkedin.com/in/psrisukhawasu/"><br>Data Science & Analytics</a> · <a href="https://github.com/phanuphatsrisukhawasu">Machine Learning & Deep Learning</a></h1>
 
-📚 Highly motivated student at Mahidol Wittayanusorn School with remarkable achievements as an International Olympiad on Astronomy and Astrophysics (IOAA) medalist
-<br>🌟 Dedicated to research projects utilizing neural networks in physics and astronomical studies
-<br>💻 Proficient in developing machine learning models with Scikit-learn / TensorFlow / PyTorch
-<br>🔎 Data manipulation and analysis with Excel / SQL / R / Python (NumPy and Pandas)
-<br>📊 Data visualization with Matplotlib / Seaborn / Tableau
+🔧 Tools and Technologies I work with:
+- Machine Learning: Scikit-learn, TensorFlow, PyTorch
+- Data Manipulation and Analysis: Excel, SQL, R, Python (NumPy, Pandas)
+- Data Visualization: Matplotlib, Seaborn
+
+📊 My Functional Areas:
+- Research in Applied AI (Physics and Astronomy)
+- Machine Learning Model Development
+- Data Analysis and Manipulation
+- Data Visualization
 
 <h2>👨‍💻 Selected personal projects </h2>
 
@@ -41,9 +46,9 @@ Transitioning from fossil fuel dependency to renewable energy is pivotal. Solar 
 
 <h3>Other mini-projects</h3>
 
-* Created a [web app](https://psrisukhawasu-catsdogsclassifier.streamlit.app) on Streamlit for classifying cats and dogs images using smartphone photos
-* Examined the efficacy of vision transformer models in classifying chest X-ray images to diagnose lung pneumonia ([view code on colab](https://drive.google.com/file/d/1-sSynBwibYYiZiIWwATkbnXEm2Z5S7Vd/view?usp=sharing))
-* Developed machine learning models for preliminary risk assessment of lung cancer based on the patience's lifestyle choices and health indicators ([view code here](https://github.com/phanuphatsrisukhawasu/lung-cancer-preliminary-risk-assessment))
+* Created a [web app](https://psrisukhawasu-catsdogsclassifier.streamlit.app) on Streamlit for classifying cats and dogs images using smartphone photos.
+* Examined the efficacy of vision transformer models in classifying chest X-ray images to diagnose lung pneumonia ([view code on colab](https://drive.google.com/file/d/1-sSynBwibYYiZiIWwATkbnXEm2Z5S7Vd/view?usp=sharing)).
+* Developed machine learning models for preliminary risk assessment of lung cancer based on the patience's lifestyle choices and health indicators ([view code here](https://github.com/phanuphatsrisukhawasu/lung-cancer-preliminary-risk-assessment)).
 
 <h2>⚛️ Projects done as a research student during high school</h2>
 
@@ -59,7 +64,7 @@ Implemented TabPFN (transformer for tabular data) to predict the nature band gap
 Applied decision trees and ensemble learning to classify Chandra X-ray sources in galactic globular clusters, achieving the best average AUC score of over 0.95.
 
 <h3>MultiFlareNet: Light-weight convolutional neural networks for solar flare forecasting using multispectral flaring region images</h3>
-Utilized transfer learning techniques with convolutional neural networks (AlexNet & EfficientNetB0) for models trained on small datasets to achieve comparable performances to previous studies with larger datasets and investigated the performance of models trained on flaring region images (AIA 94 Å & 131 Å) achieving competitive performance to the traditional magnetograms
+Utilized transfer learning techniques with convolutional neural networks (AlexNet & EfficientNetB0) for models trained on small datasets to achieve comparable performances to previous studies with larger datasets and investigated the performance of models trained on flaring region images (AIA 94 Å & 131 Å) achieving competitive performance to the traditional magnetograms.
 
 <h2>🌐 Connect with me:</h2>
 
