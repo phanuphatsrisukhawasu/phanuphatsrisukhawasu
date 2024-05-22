@@ -1,11 +1,11 @@
-<h1>Hi, I'm Oad! <a href="https://www.linkedin.com/in/psrisukhawasu/"><br>Data Science & Analytics</a> · <a href="https://github.com/phanuphatsrisukhawasu">Machine Learning & Deep Learning</a></h1>
+<h1>Hi, I'm Oad! <a href="https://www.linkedin.com/in/psrisukhawasu/"><br>Deep Learning & AI</a> · <a href="https://github.com/phanuphatsrisukhawasu">NLP & LLMs</a></h1>
 
-🔧 Tools and Technologies I work with:
+<h3>🔧 Tools and Technologies I work with<\h3>
 - Machine Learning: Scikit-learn, TensorFlow, PyTorch
 - Data Manipulation and Analysis: Excel, SQL, R, Python (NumPy, Pandas)
 - Data Visualization: Matplotlib, Seaborn
 
-📊 My Functional Areas:
+<h3>📊 My Functional Areas<\h3>
 - Research in Applied AI (Physics and Astronomy)
 - Machine Learning Model Development
 - Data Analysis and Manipulation
