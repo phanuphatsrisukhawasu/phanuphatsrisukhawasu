@@ -67,10 +67,3 @@ Applied decision trees and ensemble learning to classify Chandra X-ray sources i
 
 <h3>MultiFlareNet: Light-weight convolutional neural networks for solar flare forecasting using multispectral flaring region images</h3>
 Utilized transfer learning techniques with convolutional neural networks (AlexNet & EfficientNetB0) for models trained on small datasets to achieve comparable performances to previous studies with larger datasets and investigated the performance of models trained on flaring region images (AIA 94 Å & 131 Å) achieving competitive performance to the traditional magnetograms.
-
-<h2>🌐 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/psrisukhawasu
-https://linkedin.com/in/psrisukhawasu
