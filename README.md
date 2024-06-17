@@ -10,7 +10,7 @@
 
 - Research in Applied AI (Physics and Astronomy)
 - Machine Learning Model Development
-- Fine-tuning LLMs for Domain Specific-Tasks
+- Domain-Specific LLMs Fine-tuning
 - Data Analysis and Manipulation
 - Data Visualization
 
