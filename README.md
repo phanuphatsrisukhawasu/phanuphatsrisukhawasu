@@ -2,7 +2,7 @@
 
 <h3>🔧 Tools and Technologies I work with</h3>
 
-- Machine Learning: Scikit-learn, TensorFlow, PyTorch
+- Machine Learning: Scikit-learn, TensorFlow, PyTorch, Hugging Face
 - Data Manipulation and Analysis: Excel, SQL, R, Python (NumPy, Pandas)
 - Data Visualization: Matplotlib, Seaborn
 
@@ -10,6 +10,7 @@
 
 - Research in Applied AI (Physics and Astronomy)
 - Machine Learning Model Development
+- Fine-tuning LLMs for Domain Specific-Tasks
 - Data Analysis and Manipulation
 - Data Visualization
 
