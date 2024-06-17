@@ -14,9 +14,23 @@
 - Data Visualization
 
 <h2>👨‍💻 Selected personal projects </h2>
+<h3><a href="https://github.com/phanuphatsrisukhawasu/detecting-ai-generated-texts-with-distilbert">Comparative analysis of LoRA fine-tuned BERT and DistilBERT for detecting AI-generated texts
+</a></h3>
+AI-generated text's ethical usage is the current primary consideration in public in this era of advanced AI. This concern raises an imperative to develop a tool that has the potential to classify human and AI texts that are fast and accurate.
+
+<br> In this project, I contribute to this global goal by investigating the performance of DistilBERT, a lighter version of BERT. The binary classification task was carried out with a LoRA fine-tuned model. The model could be reliably fine-tuned using this technique without retraining billions of parameters.
+
+<img src="https://github.com/phanuphatsrisukhawasu/detecting-ai-generated-texts-with-distilbert/blob/b8bb600488d3ef0108c355936d2ebdf4154cf534/thumbnail.jpg" alt="Graphical Abstract">
+
+[![Python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=3776AB&logoColor=white&label=%20)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/static/v1?message=PyTorch&logo=pytorch&labelColor=5c5c5c&color=EE4C2C&logoColor=white&label=%20)](https://pytorch.org/)
+[![Jupyter](https://img.shields.io/static/v1?message=Jupyter&logo=jupyter&labelColor=5c5c5c&color=F37626&logoColor=white&label=%20)](https://jupyter.org/)
+[![Hugging Face](https://img.shields.io/static/v1?message=Hugging%20Face&logo=huggingface&labelColor=5c5c5c&color=FF6F00&logoColor=white&label=%20)](https://huggingface.co/)
+
+[View code here](https://github.com/phanuphatsrisukhawasu/detecting-ai-generated-texts-with-distilbert/blob/76f7ea5319a5ff65f0ceda2200ca353bda064fc9/distilbert_lora_ft.ipynb)
 
 <h3> <a href="https://github.com/phanuphatsrisukhawasu/star-galaxy-image-classification">Star-galaxy classification using ensembled CNNs</a> </h3>
-Stellar sources presented in raw images from astronomical instruments and telescopes could be too complex to be classified by humans. However, identifying types of sources is crucial for exploring new objects with compelling properties or unique characteristics, which sometimes may lead to novel discoveries in astrophysics.
+Stellar sources presented in raw images from astronomical instruments and telescopes could be too complex for humans to classify. However, identifying types of sources is crucial for exploring new objects with compelling properties or unique characteristics, which sometimes may lead to novel discoveries in astrophysics.
 
 <br> In this project, I tried using multiple lightweight convolutional neural networks to classify the images, utilizing the class weighting techniques to address the imbalanced dataset problem. Additionally, I investigated the performance of ensemble prediction from CNN, revealing an improved performance.
 
