@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oad! <a href="https://www.linkedin.com/in/psrisukhawasu/"><br>Data Science</a> · <a href="https://github.com/phanuphatsrisukhawasu">Artificial Intelligence</a></h1>
+<h1>Hi, I'm Oad! <a href="https://github.com/phanuphatsrisukhawasu"><br>Artificial Intelligence</a> · <a href="https://www.linkedin.com/in/psrisukhawasu/">Data Analysis</a></h1>
 
 <h3>🔧 Tools and Technologies I work with</h3>
 
