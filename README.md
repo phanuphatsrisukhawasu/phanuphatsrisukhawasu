@@ -1,19 +1,5 @@
 <h1>Hi, I'm Oad! <a href="https://github.com/phanuphatsrisukhawasu"><br>Artificial Intelligence</a> · <a href="https://www.linkedin.com/in/psrisukhawasu/">Data Analysis</a></h1>
 
-<h3>🔧 Tools and Technologies I work with</h3>
-
-- Machine Learning: Scikit-learn, TensorFlow, PyTorch, Hugging Face
-- Data Manipulation and Analysis: Excel, SQL, R, Python (NumPy, Pandas)
-- Data Visualization: Matplotlib, Seaborn
-
-<h3>📊 My Functional Areas</h3>
-
-- Research in Applied AI (Physics and Astronomy)
-- Machine Learning Model Development
-- Domain-Specific LLMs Fine-tuning
-- Data Analysis and Manipulation
-- Data Visualization
-
 <h2>👨‍💻 Selected personal projects </h2>
 <h3><a href="https://github.com/phanuphatsrisukhawasu/detecting-ai-generated-texts-with-distilbert">Comparative analysis of LoRA fine-tuned BERT and DistilBERT for detecting AI-generated texts
 </a></h3>
